@@ -8,46 +8,18 @@ date: "
 url: "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-the-folders-in-source-box"
 ---
 
-
-
-
 # How do I organize my source box with folders?
 
-
-
-Article Id: 1686
-
-August 26, 2024
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Use folders to organize the sources in your source box. You can create up to 200 of them. Each one needs a unique name. Here are some ideas:  
-
+Use folders to organize the sources in your source box. You can create up to 200 of them. Each one needs a unique name. Here are some ideas:
 
 * The type of record the folder contains
 * The name of the ancestor
 * The name of the family line
 * The name of a place
 
-Currently, the source box feature is only available on FamilySearch.org.   
-
+Currently, the source box feature is only available on FamilySearch.org.
 
 ## Steps
-
 
 1. While signed into [FamilySearch](http://www.familysearch.org), click your name.
 2. Click **Source Box**.
@@ -59,16 +31,4 @@ Currently, the source box feature is only available on FamilySearch.org.
 
 ## Related articles
 
-
 [What is my source box?](https://www.familysearch.org/en/help/helpcenter/article/what-is-a-source-box)
-
-
-
-
-
-
-
-
-
-
-

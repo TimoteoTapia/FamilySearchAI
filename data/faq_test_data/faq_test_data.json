@@ -1,10 +1,34 @@
 [
-    "What are record hints in Family Tree?Record hints are historical records that FamilySearch finds for you about your ancestors. These hints can often help you identify missing children, parents, siblings, and other relatives in your family tree.Learn moreabout record hints.",
-    "What is the difference between the left and the right column in Source Linker?The left column shows you details from the historical record. The right column shows you details from the ancestor\u2019s person page in the FamilySearch Family Tree.",
-    "What do the Details and Compare buttons do in Source Linker?The Details button expands both the record details (left column) and the person details (right column)The Compare button also expands the record details and the person details. In addition, if information in the record is not already in Family Tree, you will see green Add buttons that allow you to add the information.",
-    "What is my source box?Yoursource boxcontains a list of sources that you have saved. In your source box, you can create, edit, and organize sources. You can also copy them and attach them to profiles in the Family Tree.SelectingAdd toSource Boxin Source Linker saves the source\u2019s bibliographic information to your FamilySearch account. After that, you can revisit the source any time you want:Sign in to FamilySearch.In the top right corner, click your name.ClickSource Box.",
-    "How do I give feedback to FamilySearch about Source Linker?We want to know what you think about Source Linker. Here\u2019s how to give feedback:At the bottom of the Source Linker page, click the Feedback button.Select the emoji that best describes your reaction.In the feedback box that opens, enter your thoughts and suggestions.Thank you for sharing!",
-    "I\u2019m stumped. How can I get help with Source Linker?The Source Linker Learning Center is a great first option. You can also visitFamilySearch Help and Learningor contactFamilySearch Support.",
-    "Why is attaching a source important?Sources help answer questions and make information about ancestors more accurate. They also make exploring the Tree a richer, more inspiring experience. These are just a few of thebenefits of attaching sourcesto the FamilySearch Family Tree.",
-    "What do I do with an unfinished attachment?An unfinished attachment is a source that has not been attached to all of the people mentioned in the source. If you encounter anunfinished attachment, try reviewing it and attaching it to the other relatives mentioned in it."
+    {
+        "question": "What are record hints in Family Tree?",
+        "answer": "Record hints are historical records that FamilySearch finds for you about your ancestors. These hints can often help you identify missing children, parents, siblings, and other relatives in your family tree. Learn more about record hints."
+    },
+    {
+        "question": "What is the difference between the left and the right column in Source Linker?",
+        "answer": "The left column shows you details from the historical record. The right column shows you details from the ancestor's person page in the FamilySearch Family Tree."
+    },
+    {
+        "question": "What do the Details and Compare buttons do in Source Linker?",
+        "answer": "The Details button expands both the record details (left column) and the person details (right column) The Compare button also expands the record details and the person details. In addition, if information in the record is not already in Family Tree, you will see green Add buttons that allow you to add the information."
+    },
+    {
+        "question": "What is my source box?",
+        "answer": "Your source box contains a list of sources that you have saved. In your source box, you can create, edit, and organize sources. You can also copy them and attach them to profiles in the Family Tree. Selecting Add to Source Box in Source Linker saves the source's bibliographic information to your FamilySearch account. After that, you can revisit the source any time you want: Sign in to FamilySearch. In the top right corner, click your name. Click Source Box ."
+    },
+    {
+        "question": "How do I give feedback to FamilySearch about Source Linker?",
+        "answer": "We want to know what you think about Source Linker. Here's how to give feedback: At the bottom of the Source Linker page, click the Feedback button. Select the emoji that best describes your reaction. In the feedback box that opens, enter your thoughts and suggestions. Thank you for sharing!"
+    },
+    {
+        "question": "I'm stumped. How can I get help with Source Linker?",
+        "answer": "The Source Linker Learning Center is a great first option. You can also visit FamilySearch Help and Learning or contact FamilySearch Support ."
+    },
+    {
+        "question": "Why is attaching a source important?",
+        "answer": "Sources help answer questions and make information about ancestors more accurate. They also make exploring the Tree a richer, more inspiring experience. These are just a few of the benefits of attaching sources to the FamilySearch Family Tree."
+    },
+    {
+        "question": "What do I do with an unfinished attachment?",
+        "answer": "An unfinished attachment is a source that has not been attached to all of the people mentioned in the source. If you encounter an unfinished attachment , try reviewing it and attaching it to the other relatives mentioned in it."
+    }
 ]

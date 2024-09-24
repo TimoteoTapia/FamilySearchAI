@@ -8,54 +8,26 @@ date: "
 url: "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree"
 ---
 
-
-
-
 # How do I handle unfinished attachments in Family Tree?
 
-
-
-Article Id: 1015
-
-June 05, 2024
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-In Family Tree, you can see the message, “This source has not been attached to all people found in the record,” on some sources. The source contains information about one or more people, and the source is not attached to them.  
-
+In Family Tree, you can see the message, “This source has not been attached to all people found in the record,” on some sources. The source contains information about one or more people, and the source is not attached to them.
 
 ## Steps (website)
 
-
 1. On a person’s Sources tab, click **Unfinished Attachments**.
-2. Use the source linker to do one of the following:   
+2. Use the source linker to do one of the following:
 
 	* Attach the record to the other people whose records are already in Family Tree.
-	* Add the missing people to Family Tree.   
+	* Add the missing people to Family Tree.
 	
 		+ **Important:** Before you add a person to Family Tree from the record, be sure to indicate whether the person is living. FamilySearch keeps information about living people private. If the person is marked as living, only you are able to see this record in Family Tree.
 	* Nothing. Some records, like obituaries, mention people that are not closely related to the primary person on the record.
-3. To dismiss the unfinished attachment notification, click **Dismiss**.   
+3. To dismiss the unfinished attachment notification, click **Dismiss**.
 
 	* **Tip:** If you dismiss the unfinished attachment notification, the notification is removed for all users. You cannot go back and review the dismissed notification. However, you can review the attachments for all sources attached to a person in Family Tree. Simply click the source's title, and then click **Review Attachments**.
 4. If you do not want to see the unfinished attachments messages, click **Options** at the top of the Sources tab. Click the **switch** next to **Unfinished Attachments**. The option remains off until you turn it back on again.
 
 ## Steps (mobile app)
-
 
 1. Navigate to a person page in the FamilySearch Family Tree app.
 2. Below the dark bar with the name, tap **Sources**.
@@ -67,19 +39,7 @@ In Family Tree, you can see the message, “This source has not been attached to
 
 ## Related articles
 
-
-[How do I add missing family members to Family Tree from record hints?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-missing-family-members-to-family-tree-from-record-hints)  
-[In source linker, how do I change the focus person to attach sources to other people in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-attach-the-other-people-in-a-record-hint-in-family-tree)  
-[How does Family Tree protect the privacy of living people?](https://www.familysearch.org/en/help/helpcenter/article/what-is-a-private-space-in-family-tree)  
+[How do I add missing family members to Family Tree from record hints?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-missing-family-members-to-family-tree-from-record-hints)
+[In source linker, how do I change the focus person to attach sources to other people in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-attach-the-other-people-in-a-record-hint-in-family-tree)
+[How does Family Tree protect the privacy of living people?](https://www.familysearch.org/en/help/helpcenter/article/what-is-a-private-space-in-family-tree)
 [Unfinished Attachments \- How to add Others on Record to Family Tree](https://www.familysearch.org/en/help/helpcenter/article/unfinished-attachments-how-to-add-others-on-record-to-family-tree)
-
-
-
-
-
-
-
-
-
-
-

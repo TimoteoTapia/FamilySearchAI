@@ -8,35 +8,9 @@ date: "
 url: "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-create-a-source-in-family-tree"
 ---
 
-
-
-
 # How do I create a source in Family Tree?
 
-
-
-Article Id: 1684
-
-May 28, 2024
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Before you start
-
 
 * If you use a source that is not on FamilySearch, manually enter the title, web page, citation, and notes.
 * As you enter the source, provide enough information for another person to find it.
@@ -44,17 +18,15 @@ May 28, 2024
 
 ## Tips
 
-
 * When you create a source for an ancestor, provide enough context for other users to trust. Give information to help others find the record, such as a web address.
 * Enter a title that helps you recognize the specific record later.
 * Enter any other information that you think is helpful for others.
 
 ## Steps (website)
 
-
 1. Sign in to [FamilySearch](http://www.familysearch.org)
 2. Navigate to the Family Tree profile of the person.
-3. Display the sources or relationship sources:   
+3. Display the sources or relationship sources:
 
 	* If the source is about a person, click the **Sources**tab.
 	* If the source is about a couple relationship, click the **Details**tab. In the **Family Members** section, click the **pencil icon** next to the couple's marriage information.
@@ -67,14 +39,12 @@ May 28, 2024
 
 ## Steps (mobile app)
 
-
-In the Family Tree mobile app, you cannot add sources to couple relationships or parent\-child relationships. You can add a source to a person.  
-
+In the Family Tree mobile app, you cannot add sources to couple relationships or parent\-child relationships. You can add a source to a person.
 
 1. Navigate to the person.
 2. Tap the **Sources**tab.
 3. Tap **\+**.
-4. Tap one of the options:   
+4. Tap one of the options:
 
 	* To search the records database for a source to attach, tap **Search Records**.
 	* If the source is online, tap **Add a Source with a Web Page**.
@@ -85,22 +55,8 @@ In the Family Tree mobile app, you cannot add sources to couple relationships or
 
 ## Steps (Family Tree Lite)
 
-
-Sources cannot be added through Family Tree Lite. Please visit the full website instead.   
-
+Sources cannot be added through Family Tree Lite. Please visit the full website instead. 
 
 ## Related articles
 
-
 [How do I add an outside source to Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-an-outside-source-to-family-tree)
-
-
-
-
-
-
-
-
-
-
-

@@ -8,37 +8,11 @@ date: "
 url: "https://www.familysearch.org/en/help/helpcenter/article/what-are-the-benefits-of-adding-sources-to-family-tree"
 ---
 
-
-
-
 # What are the benefits of adding sources to Family Tree?
-
-
-
-Article Id: 889
-
-June 08, 2023
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 A source is historical material. Examples include a picture, journal, Bible, document, or other item that contains evidence about your family history. Sources are critical to the genealogical process for documentation and discovery. In Family Tree, you can attach sources to people, couple relationships, parent\-child relationships, and other relationships.
 
-Sources provide many benefits:  
-
+Sources provide many benefits:
 
 * They make it easier for users to work together in Family Tree. Sources can settle or prevent disputes.
 * They add richness to the tree. Information about your ancestors on a record can increase your awareness that your ancestors were real people and that you really are connected to them.
@@ -48,17 +22,5 @@ Sources provide many benefits:
 
 ## Related articles
 
-
-[How do I attach record hints in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-attach-record-hints-in-family-tree)  
-[How do I create a source in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-create-a-source-in-family-tree) 
-
-
-
-
-
-
-
-
-
-
-
+[How do I attach record hints in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-attach-record-hints-in-family-tree)
+[How do I create a source in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-create-a-source-in-family-tree)
