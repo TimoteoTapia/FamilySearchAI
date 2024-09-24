@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        How do I organize my source box with folders?
+    "
+date: "
+                August 26, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-the-folders-in-source-box"
 ---
+
+
+
+
+# How do I organize my source box with folders?
+
+
+
+Article Id: 1686
+
+August 26, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Use folders to organize the sources in your source box. You can create up to 200 of them. Each one needs a unique name. Here are some ideas:  
 
@@ -30,4 +61,14 @@ Currently, the source box feature is only available on FamilySearch.org.
 
 
 [What is my source box?](https://www.familysearch.org/en/help/helpcenter/article/what-is-a-source-box)
+
+
+
+
+
+
+
+
+
+
 

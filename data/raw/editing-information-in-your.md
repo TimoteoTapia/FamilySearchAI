@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        Editing your family tree from Source Linker
+    "
+date: "
+                June 06, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/editing-information-in-your-family-tree"
 ---
+
+
+
+
+# Editing your family tree from Source Linker
+
+
+
+Article Id: 24153
+
+June 06, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The details in the right column of Source Linker come from Family Tree. If you see a purple Compare button next to a person’s name, you can edit some of these details. Here is how it works:  
 
@@ -21,3 +52,13 @@ If the detail you want to edit is not accompanied by the pencil icon, you will n
 1. In the right column of Source Linker, click the name of the person whose Family Tree information you would like to edit.
 2. Look in the person panel that appears on the right side of the screen, and click **View Person**.
 3. Scroll through the **Details tab** until you see the detail you want to edit, and click the **pencil icon**.
+
+
+
+
+
+
+
+
+
+

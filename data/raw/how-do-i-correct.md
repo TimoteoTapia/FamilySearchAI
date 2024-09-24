@@ -1,9 +1,41 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        How do I correct parent-child relationships in Family Tree?
+    "
+date: "
+                March 13, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-correct-parent-child-relationships-in-family-tree"
 ---
 
+
+
+
+# How do I correct parent\-child relationships in Family Tree?
+
+
+
+Article Id: 1463
+
+March 13, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video: //www.youtube.com/embed/b7K8yBJCMq0?enablejsapi\=1\&playsinline\=1
 Correcting parent\-child relationships usually requires some analysis before you begin. Two kinds of problems can exist: duplicate records or incorrect relationship links.
 
 If you make a mistake during this process, do not worry. You can [undo any changes you made](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-undo-an-incorrect-change-in-family-tree) by going through the Latest Changes feature.
@@ -112,4 +144,14 @@ Removing or changing the parent\-child relationship does not remove or change th
 [How do I merge possible duplicates in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-merge-possible-duplicates-in-family-tree)  
 [A person in Family Tree has the wrong spouse](https://www.familysearch.org/en/help/helpcenter/article/a-person-in-family-tree-has-the-wrong-spouse)  
 [The same child shows more than once in a family in Family Tree](https://www.familysearch.org/en/help/helpcenter/article/the-same-child-shows-more-than-once-in-a-family-in-family-tree)
+
+
+
+
+
+
+
+
+
+
 

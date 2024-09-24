@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        Using Source Linker to detach sources
+    "
+date: "
+                June 06, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/detaching-sources-that-should-not-be-attached"
 ---
+
+
+
+
+# Using Source Linker to detach sources
+
+
+
+Article Id: 24154
+
+June 06, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Source Linker has blue detach buttons and yellow detach buttons. Each one removes the connection between a source and a person in Family Tree but for a different purpose. 
 
@@ -25,4 +56,14 @@ A yellow Detach button means that the source (left column) is attached to a diff
 * You would only want to click the yellow Detach button if you are certain that the people you see in the two columns of Source Linker are the same and that the previous attachment was a mistake.
 
 Once you detach the source from the other profile, you can attach it to the person in the right column of Source Linker. 
+
+
+
+
+
+
+
+
+
+
 

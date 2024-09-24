@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        Unfinished Attachments - How to add Others on Record to Family Tree
+    "
+date: "
+                June 20, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/unfinished-attachments-how-to-add-others-on-record-to-family-tree#attaching-individuals-from-the-record-to-a-new-profile-in-family-tree"
 ---
+
+
+
+
+# Unfinished Attachments \- How to add Others on Record to Family Tree
+
+
+
+Article Id: 27017
+
+June 20, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Table of Contents:
 
@@ -95,5 +126,15 @@ If you dismiss the unfinished attachment notification, no user sees it. You cann
 [Determining in Source Linker if a source matches your ancestor](https://www.familysearch.org/en/help/helpcenter/article/determining-if-a-source-matches-your-ancestor)  
 [Using Source Linker to attach sources](https://www.familysearch.org/en/help/helpcenter/article/using-source-linker-to-attach-sources)  
 [How do I add missing family members to Family Tree from record hints?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-missing-family-members-to-family-tree-from-record-hints)  
+
+
+
+
+
+
+
+
+
+
 
 

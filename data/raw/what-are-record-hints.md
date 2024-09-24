@@ -1,9 +1,41 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        What are record hints in Family Tree?
+    "
+date: "
+                April 24, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/what-are-record-hints-in-family-tree"
 ---
 
+
+
+
+# What are record hints in Family Tree?
+
+
+
+Article Id: 1721
+
+April 24, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video: //www.youtube.com/embed/n52oIMZ7U2o?enablejsapi\=1\&playsinline\=1
 Record hints are historical records that Family Tree finds for you about your ancestors. Family Tree conducts this search automatically. In fact, since we are always adding new historical records to FamilySearch, our hinting system is always looking for new record hints about your ancestors.  
 
 
@@ -27,4 +59,14 @@ To get the most from record hints, you do three basic tasks:
 
 
 [Getting the Most from Your Search: Understanding the Search Records Page](https://www.familysearch.org/blog/en/search-historical-records-update/)
+
+
+
+
+
+
+
+
+
+
 

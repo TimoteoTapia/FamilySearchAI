@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        In the source linker, how do I change the focus person to attach sources to other people in Family Tree?
+    "
+date: "
+                June 25, 2023
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-attach-the-other-people-in-a-record-hint-in-family-tree"
 ---
+
+
+
+
+# In the source linker, how do I change the focus person to attach sources to other people in Family Tree?
+
+
+
+Article Id: 1065
+
+June 25, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 In the source linker, the people are listed according to their relationship to a focus person. The focus person is listed with his or her spouse. You see a section with parents and another with children and siblings.
 
@@ -31,4 +62,14 @@ The source linker in the mobile app does not allow you to change the focus perso
 
 [How do I attach record hints in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-attach-record-hints-in-family-tree)  
 [How do I add missing family members to Family Tree from record hints?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-missing-family-members-to-family-tree-from-record-hints)
+
+
+
+
+
+
+
+
+
+
 

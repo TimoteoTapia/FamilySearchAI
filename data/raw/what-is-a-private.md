@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        How does Family Tree protect the privacy of living people?
+    "
+date: "
+                May 09, 2023
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/what-is-a-private-space-in-family-tree"
 ---
+
+
+
+
+# How does Family Tree protect the privacy of living people?
+
+
+
+Article Id: 898
+
+May 09, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 To protect privacy, Family Tree limits who can see the records of living people. Only the user who entered the information about a living person into Family Tree can see or change the record.
 
@@ -45,4 +76,14 @@ Multiple users can enter a profile for the same living person into Family Tree. 
 [How do I merge duplicates of living or confidential people that I added to Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-merge-duplicates-in-my-private-space-in-family-tree)  
 [Can I add memories about my living relatives to Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/can-i-add-memories-about-my-living-relatives-to-family-tree)  
 [Can I share access to the living and confidential people that I added to Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/share-a-family-tree-private-space-with-family)
+
+
+
+
+
+
+
+
+
+
 

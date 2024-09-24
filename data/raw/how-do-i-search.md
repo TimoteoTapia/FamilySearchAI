@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        How do I search my source box?
+    "
+date: "
+                August 13, 2023
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-search-my-source-box"
 ---
+
+
+
+
+# How do I search my source box?
+
+
+
+Article Id: 13469
+
+August 13, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Search your source box and find the sources you want to use. Searching is helpful if your source box contains many items.
 
@@ -36,4 +67,14 @@ Currently, Family Tree Lite does not include the Sources feature. To manage your
 
 [What is my source box?](https://www.familysearch.org/en/help/helpcenter/article/what-is-a-source-box)  
 [How do I filter my source box?](https://www.familysearch.org/en/help/helpcenter/article/filter-my-source-box)
+
+
+
+
+
+
+
+
+
+
 

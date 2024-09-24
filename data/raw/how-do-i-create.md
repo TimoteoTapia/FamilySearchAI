@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        How do I create a source in Family Tree?
+    "
+date: "
+                May 28, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-create-a-source-in-family-tree"
 ---
+
+
+
+
+# How do I create a source in Family Tree?
+
+
+
+Article Id: 1684
+
+May 28, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Before you start
 
@@ -62,4 +93,14 @@ Sources cannot be added through Family Tree Lite. Please visit the full website 
 
 
 [How do I add an outside source to Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-an-outside-source-to-family-tree)
+
+
+
+
+
+
+
+
+
+
 

@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        Viewing the image or record from Source Linker
+    "
+date: "
+                June 06, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/viewing-the-record-or-image-to-find-more-information"
 ---
+
+
+
+
+# Viewing the image or record from Source Linker
+
+
+
+Article Id: 24155
+
+June 06, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 When you have questions about the details you see in Source Linker, try viewing either the record or the source image for more information. If available, the link to either resource will appear directly above the left column of Source Linker.  
 
@@ -30,3 +61,13 @@ To view the record or the image, go to the top of the left column of Source Link
 
 * A viewing panel will open on the right side of the screen where you can explore the resource without losing your place in Source Linker.
 * If you do not see a link for viewing the image, it may be that FamilySearch does not currently own the rights to share the digital image.
+
+
+
+
+
+
+
+
+
+

@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        Understanding the focus person in Source Linker
+    "
+date: "
+                June 06, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/understanding-the-focus-person-in-source-linker"
 ---
+
+
+
+
+# Understanding the focus person in Source Linker
+
+
+
+Article Id: 24158
+
+June 06, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The focus person is the central figure in Source Linker. All other individuals are displayed in relation to that person.
 
@@ -28,5 +59,15 @@ Yes. Here’s how:
 
 
 Changing the focus person gives you the ability to re\-order the relationships so you can see if the source can be attached to more people.  
+
+
+
+
+
+
+
+
+
+
 
 

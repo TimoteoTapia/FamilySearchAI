@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        How do I handle unfinished attachments in Family Tree?
+    "
+date: "
+                June 05, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree"
 ---
+
+
+
+
+# How do I handle unfinished attachments in Family Tree?
+
+
+
+Article Id: 1015
+
+June 05, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 In Family Tree, you can see the message, “This source has not been attached to all people found in the record,” on some sources. The source contains information about one or more people, and the source is not attached to them.  
 
@@ -41,4 +72,14 @@ In Family Tree, you can see the message, “This source has not been attached to
 [In source linker, how do I change the focus person to attach sources to other people in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-attach-the-other-people-in-a-record-hint-in-family-tree)  
 [How does Family Tree protect the privacy of living people?](https://www.familysearch.org/en/help/helpcenter/article/what-is-a-private-space-in-family-tree)  
 [Unfinished Attachments \- How to add Others on Record to Family Tree](https://www.familysearch.org/en/help/helpcenter/article/unfinished-attachments-how-to-add-others-on-record-to-family-tree)
+
+
+
+
+
+
+
+
+
+
 

@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        Using drag and drop in Source Linker to organize families
+    "
+date: "
+                June 06, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/using-drag-and-drop-to-organize-families"
 ---
+
+
+
+
+# Using drag and drop in Source Linker to organize families
+
+
+
+Article Id: 24151
+
+June 06, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 In most cases, the names that you see listed in the left column of Source Linker represent members of the same family. If the names on the left column are not aligned correctly with the names on the right, you can rearrange them by dragging and dropping them with your mouse. This includes the names of relatives that appear in the “Other” section at the bottom of the left column.
 
@@ -19,4 +50,14 @@ To move a name:
 
 
 If there are no matching names but you are confident that a name in the left column is a family member, see [Adding people to the Family Tree through Source Linker](https://www.familysearch.org/en/help/helpcenter/article/creating-new-people-in-family-tree)
+
+
+
+
+
+
+
+
+
+
 

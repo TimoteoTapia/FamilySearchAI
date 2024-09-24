@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        Using Source Linker to attach a  record to multiple ancestors
+    "
+date: "
+                June 06, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/attaching-a-source-to-multiple-people-in-family-tree"
 ---
+
+
+
+
+# Using Source Linker to attach a record to multiple ancestors
+
+
+
+Article Id: 24149
+
+June 06, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
@@ -18,4 +49,14 @@ Here is how it works:
 5. If the answer is yes, leave a reason statement that explains how you came to your conclusion, and click **Attach**.
 
 **Note:** If something in the source is new or missing from Family Tree, you will have to first click **Add** to add the detail to the right column and then click **Attach**.
+
+
+
+
+
+
+
+
+
+
 

@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        Adding people to the Family Tree through Source Linker
+    "
+date: "
+                June 06, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/creating-new-people-in-family-tree"
 ---
+
+
+
+
+# Adding people to the Family Tree through Source Linker
+
+
+
+Article Id: 24150
+
+June 06, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This option appears in Source Linker if a person from a record (left column) isn't identified in Family Tree (right column). This could happen for several reasons:  
 
@@ -19,4 +50,14 @@ Before adding someone to Family Tree using Source Linker, check to make sure the
 4. Click **Create New Person**. The person is added to Family Tree.
 
 For information on how to add Others on Record to Family Tree, see [Unfinished Attachments \- How to add Others on Record to Family Tree.](https://www.familysearch.org/en/help/helpcenter/article/unfinished-attachments-how-to-add-others-on-record-to-family-tree)
+
+
+
+
+
+
+
+
+
+
 

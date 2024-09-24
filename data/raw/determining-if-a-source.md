@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        Determining in Source Linker if a source matches your ancestor
+    "
+date: "
+                June 06, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/determining-if-a-source-matches-your-ancestor"
 ---
+
+
+
+
+# Determining in Source Linker if a source matches your ancestor
+
+
+
+Article Id: 24146
+
+June 06, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Identifying a match is not always easy. Here is some guidance from experts to help you determine if a record matches an ancestor or not:  
 
@@ -14,4 +45,14 @@ Identifying a match is not always easy. Here is some guidance from experts to he
 
 Finally, keep in mind that errors can be more common in certain types of records than in others. For example, a census taker might have written down names without asking how to spell them correctly. Or a person’s age might have been an approximation.  
 On a birth certificate, by contrast, you can expect such details to be more reliable.
+
+
+
+
+
+
+
+
+
+
 

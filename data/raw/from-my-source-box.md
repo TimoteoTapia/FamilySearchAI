@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        From my source box, how do I attach a source to a person in Family Tree?
+    "
+date: "
+                November 30, 2023
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/from-my-source-box-how-do-i-attach-a-source-to-a-person-in-family-tree"
 ---
+
+
+
+
+# From my source box, how do I attach a source to a person in Family Tree?
+
+
+
+Article Id: 13760
+
+November 30, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 While your source box is open, you can attach a source to a person in Family Tree.
 
@@ -51,4 +82,14 @@ Currently, Family Tree Lite does not include the Sources feature. Visit the full
 [What is a Source Box?](https://www.familysearch.org/en/help/helpcenter/article/what-is-a-source-box)   
 [How do I detach a source from a person in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-detach-a-source-from-a-person-in-family-tree)  
 [How to I add a historical record to my source box?](https://www.familysearch.org/en/help/helpcenter/article/how-to-find-the-add-to-source-box-link) 
+
+
+
+
+
+
+
+
+
+
 

@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        How do I add an unconnected person to Family Tree?
+    "
+date: "
+                April 16, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-an-unconnected-person-to-family-tree"
 ---
+
+
+
+
+# How do I add an unconnected person to Family Tree?
+
+
+
+Article Id: 1132
+
+April 16, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can add individuals who are not connected to your family line.   
    
@@ -48,4 +79,14 @@ Currently, the Add Unconnected Person feature is not available on Family Tree
 [How do I restore a deleted record for a person in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-restore-a-deleted-record-for-a-person-in-family-tree)  
 [How do I delete a person from Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-delete-a-person-from-family-tree)  
 [How do I merge possible duplicates in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-merge-possible-duplicates-in-family-tree)
+
+
+
+
+
+
+
+
+
+
 

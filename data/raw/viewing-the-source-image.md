@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        Viewing the source image and side panel in Source Linker
+    "
+date: "
+                June 06, 2024
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/viewing-the-source-image-and-person-side-panel"
 ---
+
+
+
+
+# Viewing the source image and side panel in Source Linker
+
+
+
+Article Id: 24147
+
+June 06, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 When you have questions about the details you see in Source Linker, try viewing either the source image or the person side panel for more information. 
 
@@ -28,4 +59,14 @@ The person side panel appears whenever you click a name in the right column of S
 
 * To view the side panel, find a name in the right column of Source Linker, and click it.
 * Or click **View \_\_\_\_\_\_\_** (the person’s name), located at the top of Source Linker.
+
+
+
+
+
+
+
+
+
+
 

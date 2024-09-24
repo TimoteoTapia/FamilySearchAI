@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        What is my source box?
+    "
+date: "
+                May 16, 2023
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/what-is-a-source-box"
 ---
+
+
+
+
+# What is my source box?
+
+
+
+Article Id: 1153
+
+May 16, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Your source box lets you reuse sources instead of retyping them each time you need to use them. To view yoursource box, click your name in the upper right corner, and from the drop\-down menu, click **Source Box**.
 
@@ -27,4 +58,14 @@ For details on how to perform these tasks, view the articles linked below.
 [How do I search my source box?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-search-my-source-box)  
 [From Family Tree, how do I open my source box and attach a source to the person?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-attach-source-from-source-box)  
 [From my source box, how do I attach a source to a person in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/from-my-source-box-how-do-i-attach-a-source-to-a-person-in-family-tree)
+
+
+
+
+
+
+
+
+
+
 

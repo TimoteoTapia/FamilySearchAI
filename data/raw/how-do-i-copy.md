@@ -1,8 +1,39 @@
 ---
-title: "Untitled Article"
-date: "ArticlePage-datePublished"
+title: "
+        How do I copy a source from Family Tree into my source box?
+    "
+date: "
+                November 01, 2022
+            "
 url: "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-copy-a-source-from-source-box"
 ---
+
+
+
+
+# How do I copy a source from Family Tree into my source box?
+
+
+
+Article Id: 1617
+
+November 01, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 If you find a source that you want to use repeatedly, you can copy it to your source box. After you copy the source, you can change the title or citation, and add it to your Source box. 
 
@@ -44,5 +75,15 @@ Family Tree Lite lacks the source box feature.
 [How do I detach a source from a person in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-detach-a-source-from-a-person-in-family-tree)  
 [From Family Tree, how do I open my source box and attach a source to the person?](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-attach-source-from-source-box)  
 [From my source box, how do I attach a source to a person in Family Tree?](https://www.familysearch.org/en/help/helpcenter/article/from-my-source-box-how-do-i-attach-a-source-to-a-person-in-family-tree)  
+
+
+
+
+
+
+
+
+
+
 
 
