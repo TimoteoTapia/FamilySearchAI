@@ -1,0 +1,317 @@
+[
+    {
+        "question": "How can I attach a source to multiple ancestors using Source Linker?",
+        "answer": "You can use Source Linker to attach a source to any family member already included in Family Tree. If the person is not in Family Tree, you can add them and then attach the source. Review the names in the left column of Source Linker, compare them with the right column, and align them if necessary. Click the 'Compare' button, determine if they describe the same person, and click 'Attach' after providing a reason statement.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/attaching-a-source-to-multiple-people-in-family-tree"
+    },
+    {
+        "question": "What should I do if a person is not identified in Family Tree when using Source Linker?",
+        "answer": "If a person from a record isn't identified in Family Tree, check if they are already connected to other relatives. If the person needs to be added, drag their name to the correct line, click 'Add', review the information, and click 'Create New Person'.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/creating-new-people-in-family-tree"
+    },
+    {
+        "question": "What is the difference between the blue and yellow detach buttons in Source Linker?",
+        "answer": "The blue detach button removes the connection between a source and a person in Family Tree if they refer to separate people. The yellow detach button detaches a source from a different person than the one in the right column, used when the previous attachment was a mistake.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/detaching-sources-that-should-not-be-attached"
+    },
+    {
+        "question": "How can I determine if a source matches my ancestor in Source Linker?",
+        "answer": "Ask yourself how well the source matches vital dates, places, and relationships. Ensure there's enough information and watch for red flags, like a significant difference in birth year. The most trustworthy records are closest to the event, such as birth records.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/determining-if-a-source-matches-your-ancestor"
+    },
+    {
+        "question": "How can I edit information in Family Tree using Source Linker?",
+        "answer": "In Source Linker, click the 'Compare' button next to the person’s name. If there is a 'Different' label, click the pencil icon to edit the information. If there is no pencil icon, go to the person’s page in Family Tree to make the change.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/editing-information-in-your-family-tree"
+    },
+    {
+        "question": "What is the purpose of entering a reason statement in Source Linker?",
+        "answer": "A reason statement explains why you made changes to Family Tree. It helps other users understand your decisions and prevents them from undoing your work. The statement should be clear and specific, even if it's brief.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/entering-a-reason-statement"
+    },
+    {
+        "question": "How do I attach a source from my source box to a person in Family Tree?",
+        "answer": "To attach a source from your source box, sign in to FamilySearch, open the source box, find the source, and click 'Attach'. You can search for a person by name, ID, or select from your recent list, then provide a reason and click 'Attach'.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/from-my-source-box-how-do-i-attach-a-source-to-a-person-in-family-tree"
+    },
+    {
+        "question": "How can I add an unconnected person to Family Tree?",
+        "answer": "To add an unconnected person, sign in to FamilySearch, go to 'Recents', and click 'Add Unconnected Person'. Enter their details and create the person if they do not already exist in the search results.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-an-unconnected-person-to-family-tree"
+    },
+    {
+        "question": "What should I do if a person's name is not aligned correctly in Source Linker?",
+        "answer": "If a person's name is not aligned in Source Linker, use the drag-and-drop feature to organize them correctly. This ensures the comparison is accurate, and you can proceed with attaching or adding the person.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/using-drag-and-drop-to-organize-families"
+    },
+    {
+        "question": "What should I do if I find information missing from Family Tree while using Source Linker?",
+        "answer": "If something is missing in Family Tree, first click 'Add' to transfer the missing detail to the right column in Source Linker. Then click 'Attach' to link the source to the correct person.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/attaching-a-source-to-multiple-people-in-family-tree"
+    },
+    {
+        "question": "How can I create a new person in Family Tree using Source Linker?",
+        "answer": "To create a new person in Family Tree, drag the person’s name from the left column to the correct line, click 'Add', review the information that appears in the panel, and then click 'Create New Person'.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/creating-new-people-in-family-tree"
+    },
+    {
+        "question": "When should I use the blue detach button in Source Linker?",
+        "answer": "Use the blue detach button if the source information in the left column and the person in Family Tree on the right column refer to two separate people. This removes the incorrect connection.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/detaching-sources-that-should-not-be-attached"
+    },
+    {
+        "question": "How should I handle red flags when determining if a source matches my ancestor?",
+        "answer": "Watch for major discrepancies, such as a significant difference in birth year. If the birth year is off by many years, the record might refer to a cousin rather than your direct ancestor.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/determining-if-a-source-matches-your-ancestor"
+    },
+    {
+        "question": "What information is editable in Source Linker when comparing records?",
+        "answer": "You can edit details in the right column of Source Linker by clicking the pencil icon next to the 'Different' label. If there is no pencil icon, you will need to visit the person’s profile page in Family Tree to edit the information.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/editing-information-in-your-family-tree"
+    },
+    {
+        "question": "How do I attach a source to a person in Family Tree using the 'Find by Name' option?",
+        "answer": "In your source box, find the source you want to attach and click 'Attach'. Then, select the 'Find by Name' option, enter the person’s name and other information, and find the correct person to attach the source to.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/from-my-source-box-how-do-i-attach-a-source-to-a-person-in-family-tree"
+    },
+    {
+        "question": "What are some best practices when adding an unconnected person to Family Tree?",
+        "answer": "When adding an unconnected person, ensure you record the ID of the new record to quickly locate them later. This can be useful for verifying potential relationships or future connections.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-an-unconnected-person-to-family-tree"
+    },
+    {
+        "question": "How do I find a person in Family Tree to attach a source using their ID?",
+        "answer": "In the source box, choose 'Find by ID', enter the Family Tree ID number, and search for the person. Once you find them, attach the source and provide a reason for attaching it.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/from-my-source-box-how-do-i-attach-a-source-to-a-person-in-family-tree"
+    },
+    {
+        "question": "How do I attach a source to a person in Family Tree using the 'Recents' option?",
+        "answer": "In your source box, select the 'Recents' option to find a person you’ve recently viewed in Family Tree. Then, attach the source from your source box to that person by following the prompts.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/from-my-source-box-how-do-i-attach-a-source-to-a-person-in-family-tree"
+    },
+    {
+        "question": "What should I include in a reason statement when attaching a source in Source Linker?",
+        "answer": "Your reason statement should be clear, concise, and specific. It should explain why the source is being attached to a person in Family Tree to help other users understand your reasoning.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/entering-a-reason-statement"
+    },
+    {
+        "question": "How do I change the focus person to attach sources to other people in Family Tree?",
+        "answer": "In the source linker, the people are listed according to their relationship to a focus person. To change the focus person, click the **Change** link on the left side of the screen, select the person you want, and confirm by clicking **Change** in the center of the source linker.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-attach-the-other-people-in-a-record-hint-in-family-tree"
+    },
+    {
+        "question": "How do I copy a source from Family Tree into my source box?",
+        "answer": "To copy a source to your source box, sign in to FamilySearch.org, navigate to the person page, click the **Sources** tab, select the source you want, and then click **Copy to source box**.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-copy-a-source-from-source-box"
+    },
+    {
+        "question": "How do I correct parent-child relationships in Family Tree?",
+        "answer": "To correct parent-child relationships, navigate to the child with the incorrect parents, click the **Details** tab, find the child's name, and click the **Edit icon** to remove or replace the incorrect parent.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-correct-parent-child-relationships-in-family-tree"
+    },
+    {
+        "question": "How do I create a source in Family Tree?",
+        "answer": "To create a source, sign in to FamilySearch, navigate to the person's profile, click **Add Source**, enter the source information, and then click **Save**.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-create-a-source-in-family-tree"
+    },
+    {
+        "question": "What should I do if a record hint lines up with the wrong person?",
+        "answer": "If a record hint lines up with the wrong person, tap **Not a match** for that person, as you cannot change the focus person in the mobile app.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-attach-the-other-people-in-a-record-hint-in-family-tree"
+    },
+    {
+        "question": "Can I change the title or citation of the original FamilySearch source?",
+        "answer": "You cannot change the title, URL, or citation of the original FamilySearch source after copying it to your source box.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-copy-a-source-from-source-box"
+    },
+    {
+        "question": "What happens to a child's record if I remove it from a family's records?",
+        "answer": "When you remove a child's record, the child's record remains in Family Tree, linked to any spouses and children.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-correct-parent-child-relationships-in-family-tree"
+    },
+    {
+        "question": "What should I do if the child does not belong in the family?",
+        "answer": "If the child does not belong in the family, you should remove or replace the child's link to the parents.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-correct-parent-child-relationships-in-family-tree"
+    },
+    {
+        "question": "How can I specify biological, step, adopted, and foster relationships in Family Tree?",
+        "answer": "To specify different types of relationships, you need to adjust the parent-child links accordingly in Family Tree.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-specify-biological-step-adopted-and-foster-relationships-in-family-tree"
+    },
+    {
+        "question": "How do I see what changes have been made about a person in Family Tree?",
+        "answer": "You can see the changes made about a person by accessing the Latest Changes feature in Family Tree.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-see-what-changes-have-been-made-about-a-person-in-family-tree"
+    },
+    {
+        "question": "What should I do if I want to merge duplicate records in Family Tree?",
+        "answer": "To merge duplicate records, you can follow the instructions to merge possible duplicates by comparing ID numbers.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-merge-possible-duplicates-in-family-tree"
+    },
+    {
+        "question": "Can I add sources to couple relationships or parent-child relationships in the Family Tree mobile app?",
+        "answer": "In the Family Tree mobile app, you cannot add sources to couple relationships or parent-child relationships; you can only add a source to a person.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-create-a-source-in-family-tree"
+    },
+    {
+        "question": "What do I need to do to add a source from an outside website to Family Tree?",
+        "answer": "When adding an outside source, manually enter the title, web page, citation, and notes to provide enough information for others to find it.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-add-an-outside-source-to-family-tree"
+    },
+    {
+        "question": "How do I create a new source in my source box?",
+        "answer": "To create a new source in your source box, follow the steps to add a new source and check the option to add it to your source box during the process.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-create-a-new-source-in-source-box"
+    },
+    {
+        "question": "What should I do if I want to detach a source from a person in Family Tree?",
+        "answer": "To detach a source from a person, navigate to the person's profile, find the source, and follow the steps to detach it.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-detach-a-source-from-a-person-in-family-tree"
+    },
+    {
+        "question": "How do I attach a source from my source box to a person in Family Tree?",
+        "answer": "To attach a source from your source box, navigate to the person's profile, open your source box, and select the source to attach.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/from-my-source-box-how-do-i-attach-a-source-to-a-person-in-family-tree"
+    },
+    {
+        "question": "What happens if the same child shows more than once in a family in Family Tree?",
+        "answer": "If the same child appears more than once, check the ID numbers to determine if they are duplicates and follow the merging process if necessary.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/the-same-child-shows-more-than-once-in-a-family-in-family-tree"
+    },
+    {
+        "question": "How do I edit a source in my source box after copying it?",
+        "answer": "After copying a source to your source box, you can click **Edit** to change the date, title, notes, and reasons for changing the source fields.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-copy-a-source-from-source-box"
+    },
+    {
+        "question": "Can I create a source for a living individual in Family Tree?",
+        "answer": "Yes, you can add sources to both living and deceased individuals in Family Tree.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-create-a-source-in-family-tree"
+    },
+    {
+        "question": "What does the message 'This source has not been attached to all people found in the record' mean?",
+        "answer": "It means that the source contains information about one or more people, but it has not been attached to them in Family Tree.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree"
+    },
+    {
+        "question": "How can I access unfinished attachments on a person's Sources tab?",
+        "answer": "Click 'Unfinished Attachments' on the person's Sources tab.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree"
+    },
+    {
+        "question": "What should I do before adding a person from a record to Family Tree?",
+        "answer": "Indicate whether the person is living, as FamilySearch keeps information about living people private.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree"
+    },
+    {
+        "question": "How do I dismiss the unfinished attachment notification?",
+        "answer": "Click 'Dismiss' to remove the notification, but note that it will be removed for all users and cannot be reviewed later.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree"
+    },
+    {
+        "question": "Can I turn off unfinished attachments messages?",
+        "answer": "Yes, click 'Options' at the top of the Sources tab and switch off 'Unfinished Attachments'.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree"
+    },
+    {
+        "question": "How do I print a source from my source box?",
+        "answer": "Click your name, go to 'Source Box', select the source, click 'View', and then click 'Print'.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-print-a-source-from-my-source-box"
+    },
+    {
+        "question": "Is the source box feature available in the Family Tree mobile app?",
+        "answer": "No, the source box feature is not available in the Family Tree and Memories mobile apps.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-print-a-source-from-my-source-box"
+    },
+    {
+        "question": "How can I search my source box?",
+        "answer": "Click your name, go to 'Source Box', and enter the words you want to find in the search field.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-search-my-source-box"
+    },
+    {
+        "question": "Can I organize my source box using folders?",
+        "answer": "Yes, you can create up to 200 folders with unique names to organize your sources.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-the-folders-in-source-box"
+    },
+    {
+        "question": "What categories can I tag sources in Source Linker?",
+        "answer": "You can tag sources for details like Name, Birth, Death, Sex, Christening, Burial, and Residence.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/how-tagging-works"
+    },
+    {
+        "question": "What improvements have been made to the Source Linker?",
+        "answer": "The design has been updated for better user experience, with new features and colors for better navigation.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/new-look-and-feel"
+    },
+    {
+        "question": "What should I do if the people in the Source Linker are not my ancestors?",
+        "answer": "Click 'Find Your Family' to generate a list of Family Tree profiles that potentially match your ancestors.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/not-your-family-find-your-family-and-attach-the-source"
+    },
+    {
+        "question": "How do I know who the focus person is in Source Linker?",
+        "answer": "The focus person appears under a blue bar near the top of the two columns of Source Linker.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/understanding-the-focus-person-in-source-linker"
+    },
+    {
+        "question": "Can I change the focus person in Source Linker?",
+        "answer": "Yes, you can change the focus person by clicking 'Change Person' and selecting a new focus person.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/understanding-the-focus-person-in-source-linker"
+    },
+    {
+        "question": "What information do the left and right columns of Source Linker display?",
+        "answer": "The left column shows details from the historical record, while the right column shows details from the ancestor’s person page in Family Tree.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/understanding-the-source-linker-screen-layout"
+    },
+    {
+        "question": "What do I do if some people identified in a record are not attached to a profile in Family Tree?",
+        "answer": "You can attach those people from the record to someone already in Family Tree or add them as new profiles.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/unfinished-attachments-how-to-add-others-on-record-to-family-tree#attaching-individuals-from-the-record-to-someone-already-in-family-tree"
+    },
+    {
+        "question": "How do I remove the Unfinished Attachments notification?",
+        "answer": "Click 'Dismiss' from the Source list or turn off notifications in the 'Options' tab.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/article/unfinished-attachments-how-to-add-others-on-record-to-family-tree#remove-the-unfinished-attachments-notification"
+    },
+    {
+        "question": "What are record hints in Family Tree?",
+        "answer": "Record hints are historical records that FamilySearch finds for you about your ancestors. These hints can often help you identify missing children, parents, siblings, and other relatives in your family tree. Learn more about record hints.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/source-linker-learning-center"
+    },
+    {
+        "question": "What is the difference between the left and the right column in Source Linker?",
+        "answer": "The left column shows you details from the historical record. The right column shows you details from the ancestor's person page in the FamilySearch Family Tree.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/source-linker-learning-center"
+    },
+    {
+        "question": "What do the Details and Compare buttons do in Source Linker?",
+        "answer": "The Details button expands both the record details (left column) and the person details (right column) The Compare button also expands the record details and the person details. In addition, if information in the record is not already in Family Tree, you will see green Add buttons that allow you to add the information.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/source-linker-learning-center"
+    },
+    {
+        "question": "What is my source box?",
+        "answer": "Your source box contains a list of sources that you have saved. In your source box, you can create, edit, and organize sources. You can also copy them and attach them to profiles in the Family Tree. Selecting Add to Source Box in Source Linker saves the source's bibliographic information to your FamilySearch account. After that, you can revisit the source any time you want: Sign in to FamilySearch. In the top right corner, click your name. Click Source Box .",
+        "url": "https://www.familysearch.org/en/help/helpcenter/source-linker-learning-center"
+    },
+    {
+        "question": "How do I give feedback to FamilySearch about Source Linker?",
+        "answer": "We want to know what you think about Source Linker. Here's how to give feedback: At the bottom of the Source Linker page, click the Feedback button. Select the emoji that best describes your reaction. In the feedback box that opens, enter your thoughts and suggestions. Thank you for sharing!",
+        "url": "https://www.familysearch.org/en/help/helpcenter/source-linker-learning-center"
+    },
+    {
+        "question": "I'm stumped. How can I get help with Source Linker?",
+        "answer": "The Source Linker Learning Center is a great first option. You can also visit FamilySearch Help and Learning or contact FamilySearch Support .",
+        "url": "https://www.familysearch.org/en/help/helpcenter/source-linker-learning-center"
+    },
+    {
+        "question": "Why is attaching a source important?",
+        "answer": "Sources help answer questions and make information about ancestors more accurate. They also make exploring the Tree a richer, more inspiring experience. These are just a few of the benefits of attaching sources to the FamilySearch Family Tree.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/source-linker-learning-center"
+    },
+    {
+        "question": "What do I do with an unfinished attachment?",
+        "answer": "An unfinished attachment is a source that has not been attached to all of the people mentioned in the source. If you encounter an unfinished attachment , try reviewing it and attaching it to the other relatives mentioned in it.",
+        "url": "https://www.familysearch.org/en/help/helpcenter/source-linker-learning-center"
+    }
+]
