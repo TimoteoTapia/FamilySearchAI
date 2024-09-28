@@ -21,6 +21,11 @@ seaborn = "^0.13.2"
 textblob = "^0.18.0.post0"
 scikit-learn = "^1.5.2"
 networkx = "^3.3"
+llama-index = "^0.11.14"
+pinecone-client = "^5.0.1"
+pinecone = "^5.3.1"
+llama-index-core = "^0.11.14"
+llama-index-vector-stores-pinecone = "^0.2.1"
 
 
 [tool.poetry.group.dev.dependencies]
