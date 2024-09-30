@@ -1,6 +1,6 @@
 # Overview
 
-As a software development, I was focused on building chatbot solutions that enhance user experience and provide accurate information. This project aims to leverage AI and machine learning technologies to develop a specialized chatbot that assists users in navigating FamilySearch and genealogy-related inquiries.
+As a software engineer, I was focused on building chatbot solutions that enhance user experience and provide accurate information. This project aims to leverage AI and machine learning technologies to develop a specialized chatbot that assists users in navigating FamilySearch and genealogy-related inquiries.
 
 The data set I am analyzing consists of markdown documents sourced from various genealogy resources, containing valuable information on FamilySearch topics. This data can be found at [FamilySearch Documentation](https://www.familysearch.org/en/help/helpcenter/source-linker-learning-center).
 
