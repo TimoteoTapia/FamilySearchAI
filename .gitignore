@@ -15,5 +15,5 @@ __pycache__/
 # Archivos temporales de pruebas
 tests/temp/
 
-huggingface/.gitattributes
-huggingface/README.md
+huggingface/FamilySearchAI/.gitattributes
+huggingface/FamilySearchAI/README.md
