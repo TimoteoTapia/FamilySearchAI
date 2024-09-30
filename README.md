@@ -4,11 +4,11 @@ As a software engineer, I was focused on building chatbot solutions that enhance
 
 The data set I am analyzing consists of markdown documents sourced from various genealogy resources, containing valuable information on FamilySearch topics. This data can be found at [FamilySearch Documentation](https://www.familysearch.org/en/help/helpcenter/source-linker-learning-center).
 
-You can see the project here: [FamilySearch Chatbot](https://huggingface.co/spaces/Tapilla/FamilySearchAI)
-
 The purpose of writing this software is to create an intelligent chatbot that can understand user queries, retrieve relevant information from the indexed content, and present it in a clear and structured manner. This analysis aims to improve the chatbot's ability to provide contextually rich responses and assist users effectively.
 
 [Software Demo Video](https://www.loom.com/share/58434f24859042859615d0ceaef0a0eb?sid=93e29f28-205e-4a0e-abf1-98607ae8629d)
+
+You can see the project here: [FamilySearch Chatbot](https://huggingface.co/spaces/Tapilla/FamilySearchAI)
 
 # Data Analysis Results
 
