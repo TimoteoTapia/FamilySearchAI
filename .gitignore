@@ -17,3 +17,4 @@ tests/temp/
 
 huggingface/FamilySearchAI/.gitattributes
 huggingface/FamilySearchAI/README.md
+.ipynb_checkpoints
