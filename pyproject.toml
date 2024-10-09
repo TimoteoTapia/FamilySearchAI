@@ -31,6 +31,7 @@ gradio = "^4.44.0"
 jupyterlab = "^4.2.5"
 jupyterlab-rise = "^0.42.0"
 fuzzywuzzy = {extras = ["speedup"], version = "^0.18.0"}
+rise = "^5.7.1"
 
 
 [tool.poetry.group.dev.dependencies]
